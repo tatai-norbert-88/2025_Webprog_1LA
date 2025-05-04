@@ -3,6 +3,7 @@ session_start();
 
 $menu = [
     'cimlap' => 'Főoldal',
+    'video' => 'Videók',
     'kepek' => 'Képek',
     'hibafeladas' => 'Hibafeladás',
 ];
