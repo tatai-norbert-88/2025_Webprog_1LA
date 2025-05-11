@@ -3,7 +3,7 @@
 
 <h2>Saját videó (max. 5 mp)</h2>
 <video width="320" height="240" controls>
-  <source src="videos/sajat.mp4" type="video/mp4">
+  <source src="tatainorbert.nhely.hu/videos/sajat.mp4" type="video/mp4">
   A böngésződ nem támogatja a videólejátszást.
 </video>
 
