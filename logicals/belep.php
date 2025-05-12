@@ -1,3 +1,4 @@
+
 <?php
 session_start();
 require_once '../includes/db.php';
@@ -18,5 +19,6 @@ if ($username && $password) {
     }
 }
 
-header('Location: ../index.php?page=tablazat');
+header('Location: ../index.php?page=uzenetek');
 exit;
+?>
